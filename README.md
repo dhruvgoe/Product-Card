@@ -10,13 +10,6 @@ This repository contains a simple webpage showcasing a white coffee mug product.
 
 **Add to Cart**: Users can add the product to the cart by clicking the "Add to Cart" button.
 
-### Getting Started
-
-To get started with this project, simply clone the repository to your local machine using the following command:
-
-**git clone <repository-url>**
-
-
 ## Usage
 
 **HTML File**: The index.html file contains the structure of the webpage. It includes sections for product details and an "Add to Cart" button.
